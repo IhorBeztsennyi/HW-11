@@ -1,7 +1,7 @@
 
 class FizzAndBuzz {
     private final int l;
-    int i = 0;
+    int i = 1;
 
     public FizzAndBuzz(int n) {
         this.l = n;
